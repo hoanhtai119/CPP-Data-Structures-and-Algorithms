@@ -43,7 +43,7 @@ int main()
     cout << "Bubble Sort" << endl;
 
     // Initialize a new array
-    int arr[] = {43, 21, 26, 38, 17, 30};
+    int arr[] = {43, 21, 26, 38, 17, 30, 100, 234};
     int arrSize = sizeof(arr)/sizeof(*arr);
 
     // Display the initial array
